@@ -1,0 +1,12 @@
+/* Style for the score header in success.html */
+h2 {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 50px;
+  color: aqua;
+}
+
+body {
+  background-image: url("KOHLI Wallpaper.jpg");
+  background-size: cover;
+}

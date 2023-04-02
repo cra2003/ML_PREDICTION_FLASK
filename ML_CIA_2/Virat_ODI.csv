@@ -1,0 +1,249 @@
+runs,NotOut,mins,bf,fours,sixes,sr,Inns,Opp,Ground,Date
+12,0,33,22,1,0,54.54,1,Sri Lanka,Dambulla,18 Aug 2008
+37,0,82,67,6,0,55.22,2,Sri Lanka,Dambulla,20 Aug 2008
+25,0,40,38,4,0,65.78,1,Sri Lanka,Colombo (RPS),24 Aug 2008
+54,0,87,66,7,0,81.81,1,Sri Lanka,Colombo (RPS),27 Aug 2008
+31,0,45,46,3,1,67.39,2,Sri Lanka,Colombo (RPS),29 Aug 2008
+2,1,6,2,0,0,100.00,1,Sri Lanka,Colombo (RPS),14 Sep 2009
+16,0,28,24,1,0,66.66,2,Pakistan,Centurion,26 Sep 2009
+TDNB,0,-,-,-,-,-,-,Australia,Centurion,28 Sep 2009
+79,1,121,104,9,2,75.96,2,West Indies,Johannesburg,30 Sep 2009
+30,0,53,41,3,0,73.17,2,Australia,Vadodara,25 Oct 2009
+10,0,32,16,1,0,62.50,2,Australia,Mohali,2 Nov 2009
+27,0,20,19,4,0,142.10,1,Sri Lanka,Rajkot,15 Dec 2009
+54,0,93,65,7,0,83.07,1,Sri Lanka,Nagpur,18 Dec 2009
+107,0,-,114,11,1,93.85,2,Sri Lanka,Kolkata,24 Dec 2009
+TDNB,0,-,-,-,-,-,-,Sri Lanka,Delhi,27 Dec 2009
+9,0,19,12,1,0,75.00,1,Sri Lanka,Dhaka,5 Jan 2010
+91,0,136,102,7,0,89.21,2,Bangladesh,Dhaka,7 Jan 2010
+71,1,98,68,9,0,104.41,2,Sri Lanka,Dhaka,10 Jan 2010
+102,1,128,95,11,0,107.36,2,Bangladesh,Dhaka,11 Jan 2010
+2,0,6,8,0,0,25.00,1,Sri Lanka,Dhaka,13 Jan 2010
+31,0,-,46,1,0,67.39,1,South Africa,Jaipur,21 Feb 2010
+DNB,0,-,-,-,-,-,1,South Africa,Gwalior,24 Feb 2010
+57,0,-,71,4,1,80.28,2,South Africa,Ahmedabad,27 Feb 2010
+0,0,3,0,0,0,-,1,Zimbabwe,Bulawayo,28 May 2010
+82,0,125,92,4,0,89.13,2,Sri Lanka,Bulawayo,30 May 2010
+18,0,28,29,1,0,62.06,1,Zimbabwe,Harare,3 Jun 2010
+68,0,123,95,5,0,71.57,1,Sri Lanka,Harare,5 Jun 2010
+11,0,35,22,0,0,50.00,2,Bangladesh,Dambulla,16 Jun 2010
+18,0,31,27,1,0,66.66,2,Pakistan,Dambulla,19 Jun 2010
+10,0,13,14,1,0,71.42,1,Sri Lanka,Dambulla,22 Jun 2010
+28,0,57,34,4,0,82.35,1,Sri Lanka,Dambulla,24 Jun 2010
+0,0,5,3,0,0,0.00,2,Sri Lanka,Dambulla,16 Aug 2010
+8,0,22,16,1,0,50.00,1,New Zealand,Dambulla,25 Aug 2010
+37,0,98,57,5,0,64.91,2,Sri Lanka,Dambulla,28 Aug 2010
+118,0,193,121,11,1,97.52,2,Australia,Visakhapatnam,20 Oct 2010
+105,0,162,104,10,0,100.96,1,New Zealand,Guwahati,28 Nov 2010
+64,0,78,73,8,0,87.67,2,New Zealand,Jaipur,1 Dec 2010
+63,1,83,70,6,2,90.00,2,New Zealand,Vadodara,4 Dec 2010
+0,0,3,2,0,0,0.00,2,New Zealand,Bengaluru,7 Dec 2010
+2,0,10,8,0,0,25.00,2,New Zealand,Chennai,10 Dec 2010
+54,0,122,70,2,1,77.14,2,South Africa,Durban,12 Jan 2011
+22,0,43,34,1,0,64.70,1,South Africa,Johannesburg,15 Jan 2011
+28,0,51,41,5,0,68.29,2,South Africa,Cape Town,18 Jan 2011
+87,1,126,92,7,2,94.56,2,South Africa,Port Elizabeth,21 Jan 2011
+2,0,11,6,0,0,33.33,2,South Africa,Centurion,23 Jan 2011
+100,1,113,83,8,2,120.48,1,Bangladesh,Dhaka,19 Feb 2011
+8,0,12,5,1,0,160.00,1,England,Bengaluru,27 Feb 2011
+34,0,82,53,3,0,64.15,2,Ireland,Bengaluru,6 Mar 2011
+12,0,16,20,2,0,60.00,2,Netherlands,Delhi,9 Mar 2011
+1,0,2,3,0,0,33.33,1,South Africa,Nagpur,12 Mar 2011
+59,0,128,76,5,0,77.63,1,West Indies,Chennai,20 Mar 2011
+24,0,38,33,1,0,72.72,2,Australia,Ahmedabad,24 Mar 2011
+9,0,20,21,0,0,42.85,1,Pakistan,Mohali,30 Mar 2011
+35,0,69,49,4,0,71.42,2,Sri Lanka,Mumbai,2 Apr 2011
+2,0,5,8,0,0,25.00,2,West Indies,Port of Spain,6 Jun 2011
+81,0,118,103,6,1,78.64,2,West Indies,Port of Spain,8 Jun 2011
+0,0,1,1,0,0,0.00,2,West Indies,North Sound,11 Jun 2011
+22,0,68,33,1,0,66.66,2,West Indies,North Sound,13 Jun 2011
+94,0,135,104,10,0,90.38,1,West Indies,Kingston,16 Jun 2011
+55,0,92,73,4,0,75.34,1,England,Chester-le-Street,3 Sep 2011
+9,0,9,9,0,0,100.00,1,England,Southampton,6 Sep 2011
+7,0,18,18,0,0,38.88,1,England,The Oval,9 Sep 2011
+16,0,40,36,1,0,44.44,1,England,Lord's,11 Sep 2011
+107,0,102,93,9,1,115.05,1,England,Cardiff,16 Sep 2011
+37,0,70,63,0,0,58.73,1,England,Hyderabad (Deccan),14 Oct 2011
+112,1,134,98,16,0,114.28,2,England,Delhi,17 Oct 2011
+35,0,42,30,5,0,116.66,2,England,Mohali,20 Oct 2011
+86,1,-,99,11,0,86.86,2,England,Mumbai,23 Oct 2011
+0,0,5,5,0,0,0.00,1,England,Kolkata,25 Oct 2011
+3,0,13,6,0,0,50.00,2,West Indies,Cuttack,29 Nov 2011
+117,0,154,123,14,0,95.12,2,West Indies,Visakhapatnam,2 Dec 2011
+20,0,21,30,3,0,66.66,2,West Indies,Ahmedabad,5 Dec 2011
+23,1,15,11,3,0,209.09,1,West Indies,Indore,8 Dec 2011
+80,0,99,85,5,0,94.11,1,West Indies,Chennai,11 Dec 2011
+31,0,30,34,3,0,91.17,2,Australia,Melbourne,5 Feb 2012
+77,0,156,94,8,1,81.91,2,Sri Lanka,Perth,8 Feb 2012
+18,0,41,28,1,0,64.28,2,Australia,Adelaide,12 Feb 2012
+15,0,32,25,1,0,60.00,2,Sri Lanka,Adelaide,14 Feb 2012
+12,0,44,25,0,0,48.00,2,Australia,Brisbane,19 Feb 2012
+66,0,116,83,2,0,79.51,2,Sri Lanka,Brisbane,21 Feb 2012
+21,0,36,27,2,0,77.77,2,Australia,Sydney,26 Feb 2012
+133,1,133,86,16,2,154.65,2,Sri Lanka,Hobart,28 Feb 2012
+108,0,148,120,7,0,90.00,1,Sri Lanka,Dhaka,13 Mar 2012
+66,0,126,82,5,0,80.48,1,Bangladesh,Dhaka,16 Mar 2012
+183,0,211,148,22,1,123.64,2,Pakistan,Dhaka,18 Mar 2012
+106,0,158,113,9,0,93.80,1,Sri Lanka,Hambantota,21 Jul 2012
+1,0,6,5,0,0,20.00,1,Sri Lanka,Hambantota,24 Jul 2012
+38,0,80,65,2,0,58.46,2,Sri Lanka,Colombo (RPS),28 Jul 2012
+128,1,187,119,12,1,107.56,2,Sri Lanka,Colombo (RPS),31 Jul 2012
+23,0,42,35,2,0,65.71,1,Sri Lanka,Pallekele,4 Aug 2012
+0,0,9,5,0,0,0.00,1,Pakistan,Chennai,30 Dec 2012
+6,0,12,9,1,0,66.66,2,Pakistan,Kolkata,3 Jan 2013
+7,0,25,17,1,0,41.17,1,Pakistan,Delhi,6 Jan 2013
+15,0,45,22,1,0,68.18,2,England,Rajkot,11 Jan 2013
+37,0,86,54,1,1,68.51,1,England,Kochi,15 Jan 2013
+77,1,110,79,9,2,97.46,2,England,Ranchi,19 Jan 2013
+26,0,44,33,3,0,78.78,2,England,Mohali,23 Jan 2013
+0,0,1,1,0,0,0.00,1,England,Dharamsala,27 Jan 2013
+31,0,46,41,2,0,75.60,1,South Africa,Cardiff,6 Jun 2013
+22,0,18,18,4,0,122.22,2,West Indies,The Oval,11 Jun 2013
+22,1,36,27,3,0,81.48,2,Pakistan,Birmingham,15 Jun 2013
+58,1,80,64,4,1,90.62,2,Sri Lanka,Cardiff,20 Jun 2013
+43,0,66,34,4,1,126.47,1,England,Birmingham,23 Jun 2013
+11,0,19,21,0,1,52.38,1,West Indies,Kingston,30 Jun 2013
+2,0,6,5,0,0,40.00,2,Sri Lanka,Kingston,2 Jul 2013
+102,0,120,83,13,2,122.89,1,West Indies,Port of Spain,5 Jul 2013
+31,0,62,52,4,0,59.61,1,Sri Lanka,Port of Spain,9 Jul 2013
+2,0,8,5,0,0,40.00,2,Sri Lanka,Port of Spain,11 Jul 2013
+115,0,133,108,13,1,106.48,2,Zimbabwe,Harare,24 Jul 2013
+14,0,35,18,2,0,77.77,1,Zimbabwe,Harare,26 Jul 2013
+68,1,128,88,5,1,77.27,2,Zimbabwe,Harare,28 Jul 2013
+DNB,0,-,-,-,-,-,2,Zimbabwe,Bulawayo,1 Aug 2013
+DNB,0,-,-,-,-,-,2,Zimbabwe,Bulawayo,3 Aug 2013
+61,0,121,85,6,0,71.76,2,Australia,Pune,13 Oct 2013
+100,1,82,52,8,7,192.30,2,Australia,Jaipur,16 Oct 2013
+68,0,121,73,9,0,93.15,1,Australia,Mohali,19 Oct 2013
+DNB,0,-,-,-,-,-,2,Australia,Ranchi,23 Oct 2013
+115,1,104,66,18,1,174.24,2,Australia,Nagpur,30 Oct 2013
+0,0,4,3,0,0,0.00,1,Australia,Bengaluru,2 Nov 2013
+86,0,120,84,9,2,102.38,2,West Indies,Kochi,21 Nov 2013
+99,0,159,100,9,0,99.00,1,West Indies,Visakhapatnam,24 Nov 2013
+19,0,19,18,3,0,105.55,2,West Indies,Kanpur,27 Nov 2013
+31,0,41,35,5,0,88.57,2,South Africa,Johannesburg,5 Dec 2013
+0,0,7,5,0,0,0.00,2,South Africa,Durban,8 Dec 2013
+TDNB,0,-,-,-,-,-,-,South Africa,Centurion,11 Dec 2013
+123,0,179,111,11,2,110.81,2,New Zealand,Napier,19 Jan 2014
+78,0,88,65,7,2,120.00,2,New Zealand,Hamilton,22 Jan 2014
+6,0,27,20,1,0,30.00,2,New Zealand,Auckland,25 Jan 2014
+2,0,14,10,0,0,20.00,1,New Zealand,Hamilton,28 Jan 2014
+82,0,129,78,7,3,105.12,2,New Zealand,Wellington,31 Jan 2014
+136,0,157,122,16,2,111.47,2,Bangladesh,Fatullah,26 Feb 2014
+48,0,66,51,4,1,94.11,1,Sri Lanka,Fatullah,28 Feb 2014
+5,0,29,11,0,0,45.45,1,Pakistan,Dhaka,2 Mar 2014
+DNB,0,-,-,-,-,-,2,Afghanistan,Dhaka,5 Mar 2014
+0,0,1,3,0,0,0.00,1,England,Cardiff,27 Aug 2014
+40,0,67,50,2,1,80.00,2,England,Nottingham,30 Aug 2014
+1,1,9,3,0,0,33.33,2,England,Birmingham,2 Sep 2014
+13,0,25,21,2,0,61.90,2,England,Leeds,5 Sep 2014
+2,0,7,5,0,0,40.00,2,West Indies,Kochi,8 Oct 2014
+62,0,124,78,5,0,79.48,1,West Indies,Delhi,11 Oct 2014
+127,0,164,114,13,3,111.40,1,West Indies,Dharamsala,17 Oct 2014
+22,0,34,21,2,0,104.76,1,Sri Lanka,Cuttack,2 Nov 2014
+49,0,-,44,2,2,111.36,2,Sri Lanka,Ahmedabad,6 Nov 2014
+53,0,-,61,4,1,86.88,2,Sri Lanka,Hyderabad (Deccan),9 Nov 2014
+66,0,109,64,6,0,103.12,1,Sri Lanka,Kolkata,13 Nov 2014
+139,1,192,126,12,3,110.31,2,Sri Lanka,Ranchi,16 Nov 2014
+9,0,24,16,0,0,56.25,1,Australia,Melbourne,18 Jan 2015
+4,0,13,8,0,0,50.00,1,England,Brisbane,20 Jan 2015
+3,1,8,9,0,0,33.33,1,Australia,Sydney,26 Jan 2015
+8,0,26,19,0,0,42.10,1,England,Perth,30 Jan 2015
+107,0,168,126,8,0,84.92,1,Pakistan,Adelaide,15 Feb 2015
+46,0,106,60,3,0,76.66,1,South Africa,Melbourne,22 Feb 2015
+33,1,49,41,5,0,80.48,2,U.A.E.,Perth,28 Feb 2015
+33,0,51,36,5,0,91.66,2,West Indies,Perth,6 Mar 2015
+44,1,64,42,4,1,104.76,2,Ireland,Hamilton,10 Mar 2015
+38,0,71,48,4,0,79.16,2,Zimbabwe,Auckland,14 Mar 2015
+3,0,6,8,0,0,37.50,1,Bangladesh,Melbourne,19 Mar 2015
+1,0,11,13,0,0,7.69,2,Australia,Sydney,26 Mar 2015
+1,0,9,4,0,0,25.00,2,Bangladesh,Dhaka,18 Jun 2015
+23,0,57,27,3,1,85.18,1,Bangladesh,Dhaka,21 Jun 2015
+25,0,55,35,1,0,71.42,1,Bangladesh,Dhaka,24 Jun 2015
+11,0,29,18,0,0,61.11,2,South Africa,Kanpur,11 Oct 2015
+12,0,24,18,0,0,66.66,1,South Africa,Indore,14 Oct 2015
+77,0,155,99,5,0,77.77,2,South Africa,Rajkot,18 Oct 2015
+138,0,202,140,6,5,98.57,1,South Africa,Chennai,22 Oct 2015
+7,0,11,6,0,1,116.66,2,South Africa,Mumbai,25 Oct 2015
+91,0,148,97,9,1,93.81,1,Australia,Perth,12 Jan 2016
+59,0,84,67,4,0,88.05,1,Australia,Brisbane,15 Jan 2016
+117,0,174,117,7,2,100.00,1,Australia,Melbourne,17 Jan 2016
+106,0,131,92,11,1,115.21,2,Australia,Canberra,20 Jan 2016
+8,0,11,11,1,0,72.72,2,Australia,Sydney,23 Jan 2016
+85,1,109,81,9,1,104.93,2,New Zealand,Dharamsala,16 Oct 2016
+9,0,18,13,1,0,69.23,2,New Zealand,Delhi,20 Oct 2016
+154,1,202,134,16,1,114.92,2,New Zealand,Mohali,23 Oct 2016
+45,0,64,51,2,1,88.23,2,New Zealand,Ranchi,26 Oct 2016
+65,0,152,76,2,1,85.52,1,New Zealand,Visakhapatnam,29 Oct 2016
+122,0,147,105,8,5,116.19,2,England,Pune,15 Jan 2017
+8,0,6,5,2,0,160.00,1,England,Cuttack,19 Jan 2017
+55,0,81,63,8,0,87.30,2,England,Kolkata,22 Jan 2017
+81,1,108,68,6,3,119.11,1,Pakistan,Birmingham,4 Jun 2017
+0,0,5,5,0,0,0.00,1,Sri Lanka,The Oval,8 Jun 2017
+76,1,136,101,7,1,75.24,2,South Africa,The Oval,11 Jun 2017
+96,1,96,78,13,0,123.07,2,Bangladesh,Birmingham,15 Jun 2017
+5,0,11,9,0,0,55.55,2,Pakistan,The Oval,18 Jun 2017
+32,1,-,47,1,0,68.08,1,West Indies,Port of Spain,23 Jun 2017
+87,0,-,66,4,4,131.81,1,West Indies,Port of Spain,25 Jun 2017
+11,0,-,22,2,0,50.00,1,West Indies,North Sound,30 Jun 2017
+3,0,-,12,0,0,25.00,2,West Indies,North Sound,2 Jul 2017
+111,1,-,115,12,2,96.52,2,West Indies,Kingston,6 Jul 2017
+82,1,-,70,10,1,117.14,2,Sri Lanka,Dambulla,20 Aug 2017
+4,0,-,2,1,0,200.00,2,Sri Lanka,Pallekele,24 Aug 2017
+3,0,-,11,0,0,27.27,2,Sri Lanka,Pallekele,27 Aug 2017
+131,0,-,96,17,2,136.45,1,Sri Lanka,Colombo (RPS),31 Aug 2017
+110,1,-,116,9,0,94.82,2,Sri Lanka,Colombo (RPS),3 Sep 2017
+0,0,7,4,0,0,0.00,1,Australia,Chennai,17 Sep 2017
+92,0,148,107,8,0,85.98,1,Australia,Kolkata,21 Sep 2017
+28,0,58,35,2,0,80.00,2,Australia,Indore,24 Sep 2017
+21,0,23,21,3,0,100.00,2,Australia,Bengaluru,28 Sep 2017
+39,0,73,55,2,0,70.90,2,Australia,Nagpur,1 Oct 2017
+121,0,203,125,9,2,96.80,1,New Zealand,Mumbai,22 Oct 2017
+29,0,40,29,3,1,100.00,2,New Zealand,Pune,25 Oct 2017
+113,0,166,106,9,1,106.60,1,New Zealand,Kanpur,29 Oct 2017
+112,0,164,119,10,0,94.11,2,South Africa,Durban,1 Feb 2018
+46,1,64,50,4,1,92.00,2,South Africa,Centurion,4 Feb 2018
+160,1,220,159,12,2,100.62,1,South Africa,Cape Town,7 Feb 2018
+75,0,119,83,7,1,90.36,1,South Africa,Johannesburg,10 Feb 2018
+36,0,76,54,2,0,66.66,1,South Africa,Port Elizabeth,13 Feb 2018
+129,1,123,96,19,2,134.37,2,South Africa,Centurion,16 Feb 2018
+75,0,-,82,7,0,91.46,2,England,Nottingham,12 Jul 2018
+45,0,-,56,2,0,80.35,2,England,Lord's,14 Jul 2018
+71,0,98,72,8,0,98.61,1,England,Leeds,17 Jul 2018
+140,0,-,107,21,2,130.84,2,West Indies,Guwahati,21 Oct 2018
+157,1,217,129,13,4,121.70,1,West Indies,Visakhapatnam,24 Oct 2018
+107,0,-,119,10,1,89.91,2,West Indies,Pune,27 Oct 2018
+16,0,-,17,2,0,94.11,1,West Indies,Mumbai (BS),29 Oct 2018
+33,1,57,29,6,0,113.79,2,West Indies,Thiruvananthapuram,1 Nov 2018
+3,0,10,8,0,0,37.50,2,Australia,Sydney,12 Jan 2019
+104,0,150,112,5,2,92.85,2,Australia,Adelaide,15 Jan 2019
+46,0,-,62,3,0,74.19,2,Australia,Melbourne,18 Jan 2019
+45,0,59,59,3,0,76.27,2,New Zealand,Napier,23 Jan 2019
+43,0,59,45,5,0,95.55,1,New Zealand,Mount Maunganui,26 Jan 2019
+60,0,94,74,6,1,81.08,2,New Zealand,Mount Maunganui,28 Jan 2019
+44,0,-,45,6,1,97.77,2,Australia,Hyderabad (Deccan),2 Mar 2019
+116,0,-,120,10,0,96.66,1,Australia,Nagpur,5 Mar 2019
+123,0,-,95,16,1,129.47,2,Australia,Ranchi,8 Mar 2019
+7,0,-,6,1,0,116.66,1,Australia,Mohali,10 Mar 2019
+20,0,-,22,2,0,90.90,2,Australia,Delhi,13 Mar 2019
+18,0,44,34,1,0,52.94,2,South Africa,Southampton,5 Jun 2019
+82,0,128,77,4,2,106.49,1,Australia,The Oval,9 Jun 2019
+77,0,105,65,7,0,118.46,1,Pakistan,Manchester,16 Jun 2019
+67,0,105,63,5,0,106.34,1,Afghanistan,Southampton,22 Jun 2019
+72,0,146,82,8,0,87.80,1,West Indies,Manchester,27 Jun 2019
+66,0,103,76,7,0,86.84,2,England,Birmingham,30 Jun 2019
+26,0,45,27,3,0,96.29,1,Bangladesh,Birmingham,2 Jul 2019
+34,1,61,41,3,0,82.92,2,Sri Lanka,Leeds,6 Jul 2019
+1,0,8,6,0,0,16.66,2,New Zealand,Manchester,9 Jul 2019
+TDNB,0,-,-,-,-,-,-,West Indies,Providence,8 Aug 2019
+120,0,179,125,14,1,96.00,1,West Indies,Port of Spain,11 Aug 2019
+114,1,127,99,14,0,115.15,2,West Indies,Port of Spain,14 Aug 2019
+4,0,-,4,1,0,100.00,1,West Indies,Chennai,15 Dec 2019
+0,0,-,1,0,0,0.00,1,West Indies,Visakhapatnam,18 Dec 2019
+85,0,-,81,9,0,104.93,2,West Indies,Cuttack,22 Dec 2019
+16,0,-,14,0,1,114.28,1,Australia,Mumbai,14 Jan 2020
+78,0,-,76,6,0,102.63,1,Australia,Rajkot,17 Jan 2020
+89,0,-,91,8,0,97.80,2,Australia,Bengaluru,19 Jan 2020
+51,0,88,63,6,0,80.95,1,New Zealand,Hamilton,5 Feb 2020
+15,0,31,25,1,0,60.00,2,New Zealand,Auckland,8 Feb 2020
+9,0,20,12,0,1,75.00,1,New Zealand,Mount Maunganui,11 Feb 2020

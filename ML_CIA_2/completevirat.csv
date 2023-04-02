@@ -1,0 +1,272 @@
+,runs,Opp,Ground,Inns
+0,12,Sri Lanka,Dambulla,1
+1,37,Sri Lanka,Dambulla,2
+2,25,Sri Lanka,Colombo (RPS),1
+3,54,Sri Lanka,Colombo (RPS),1
+4,31,Sri Lanka,Colombo (RPS),2
+5,2,Sri Lanka,Colombo (RPS),1
+6,16,Pakistan,Centurion,2
+7,TDNB,Australia,Centurion,-
+8,79,West Indies,Johannesburg,2
+9,30,Australia,Vadodara,2
+10,10,Australia,Mohali,2
+11,27,Sri Lanka,Rajkot,1
+12,54,Sri Lanka,Nagpur,1
+13,107,Sri Lanka,Kolkata,2
+14,TDNB,Sri Lanka,Delhi,-
+15,9,Sri Lanka,Dhaka,1
+16,91,Bangladesh,Dhaka,2
+17,71,Sri Lanka,Dhaka,2
+18,102,Bangladesh,Dhaka,2
+19,2,Sri Lanka,Dhaka,1
+20,31,South Africa,Jaipur,1
+21,DNB,South Africa,Gwalior,1
+22,57,South Africa,Ahmedabad,2
+23,0,Zimbabwe,Bulawayo,1
+24,82,Sri Lanka,Bulawayo,2
+25,18,Zimbabwe,Harare,1
+26,68,Sri Lanka,Harare,1
+27,11,Bangladesh,Dambulla,2
+28,18,Pakistan,Dambulla,2
+29,10,Sri Lanka,Dambulla,1
+30,28,Sri Lanka,Dambulla,1
+31,0,Sri Lanka,Dambulla,2
+32,8,New Zealand,Dambulla,1
+33,37,Sri Lanka,Dambulla,2
+34,118,Australia,Visakhapatnam,2
+35,105,New Zealand,Guwahati,1
+36,64,New Zealand,Jaipur,2
+37,63,New Zealand,Vadodara,2
+38,0,New Zealand,Bengaluru,2
+39,2,New Zealand,Chennai,2
+40,54,South Africa,Durban,2
+41,22,South Africa,Johannesburg,1
+42,28,South Africa,Cape Town,2
+43,87,South Africa,Port Elizabeth,2
+44,2,South Africa,Centurion,2
+45,100,Bangladesh,Dhaka,1
+46,8,England,Bengaluru,1
+47,34,Ireland,Bengaluru,2
+48,12,Netherlands,Delhi,2
+49,1,South Africa,Nagpur,1
+50,59,West Indies,Chennai,1
+51,24,Australia,Ahmedabad,2
+52,9,Pakistan,Mohali,1
+53,35,Sri Lanka,Mumbai,2
+54,2,West Indies,Port of Spain,2
+55,81,West Indies,Port of Spain,2
+56,0,West Indies,North Sound,2
+57,22,West Indies,North Sound,2
+58,94,West Indies,Kingston,1
+59,55,England,Chester-le-Street,1
+60,9,England,Southampton,1
+61,7,England,The Oval,1
+62,16,England,Lord's,1
+63,107,England,Cardiff,1
+64,37,England,Hyderabad (Deccan),1
+65,112,England,Delhi,2
+66,35,England,Mohali,2
+67,86,England,Mumbai,2
+68,0,England,Kolkata,1
+69,3,West Indies,Cuttack,2
+70,117,West Indies,Visakhapatnam,2
+71,20,West Indies,Ahmedabad,2
+72,23,West Indies,Indore,1
+73,80,West Indies,Chennai,1
+74,31,Australia,Melbourne,2
+75,77,Sri Lanka,Perth,2
+76,18,Australia,Adelaide,2
+77,15,Sri Lanka,Adelaide,2
+78,12,Australia,Brisbane,2
+79,66,Sri Lanka,Brisbane,2
+80,21,Australia,Sydney,2
+81,133,Sri Lanka,Hobart,2
+82,108,Sri Lanka,Dhaka,1
+83,66,Bangladesh,Dhaka,1
+84,183,Pakistan,Dhaka,2
+85,106,Sri Lanka,Hambantota,1
+86,1,Sri Lanka,Hambantota,1
+87,38,Sri Lanka,Colombo (RPS),2
+88,128,Sri Lanka,Colombo (RPS),2
+89,23,Sri Lanka,Pallekele,1
+90,0,Pakistan,Chennai,1
+91,6,Pakistan,Kolkata,2
+92,7,Pakistan,Delhi,1
+93,15,England,Rajkot,2
+94,37,England,Kochi,1
+95,77,England,Ranchi,2
+96,26,England,Mohali,2
+97,0,England,Dharamsala,1
+98,31,South Africa,Cardiff,1
+99,22,West Indies,The Oval,2
+100,22,Pakistan,Birmingham,2
+101,58,Sri Lanka,Cardiff,2
+102,43,England,Birmingham,1
+103,11,West Indies,Kingston,1
+104,2,Sri Lanka,Kingston,2
+105,102,West Indies,Port of Spain,1
+106,31,Sri Lanka,Port of Spain,1
+107,2,Sri Lanka,Port of Spain,2
+108,115,Zimbabwe,Harare,2
+109,14,Zimbabwe,Harare,1
+110,68,Zimbabwe,Harare,2
+111,DNB,Zimbabwe,Bulawayo,2
+112,DNB,Zimbabwe,Bulawayo,2
+113,61,Australia,Pune,2
+114,100,Australia,Jaipur,2
+115,68,Australia,Mohali,1
+116,DNB,Australia,Ranchi,2
+117,115,Australia,Nagpur,2
+118,0,Australia,Bengaluru,1
+119,86,West Indies,Kochi,2
+120,99,West Indies,Visakhapatnam,1
+121,19,West Indies,Kanpur,2
+122,31,South Africa,Johannesburg,2
+123,0,South Africa,Durban,2
+124,TDNB,South Africa,Centurion,-
+125,123,New Zealand,Napier,2
+126,78,New Zealand,Hamilton,2
+127,6,New Zealand,Auckland,2
+128,2,New Zealand,Hamilton,1
+129,82,New Zealand,Wellington,2
+130,136,Bangladesh,Fatullah,2
+131,48,Sri Lanka,Fatullah,1
+132,5,Pakistan,Dhaka,1
+133,DNB,Afghanistan,Dhaka,2
+134,0,England,Cardiff,1
+135,40,England,Nottingham,2
+136,1,England,Birmingham,2
+137,13,England,Leeds,2
+138,2,West Indies,Kochi,2
+139,62,West Indies,Delhi,1
+140,127,West Indies,Dharamsala,1
+141,22,Sri Lanka,Cuttack,1
+142,49,Sri Lanka,Ahmedabad,2
+143,53,Sri Lanka,Hyderabad (Deccan),2
+144,66,Sri Lanka,Kolkata,1
+145,139,Sri Lanka,Ranchi,2
+146,9,Australia,Melbourne,1
+147,4,England,Brisbane,1
+148,3,Australia,Sydney,1
+149,8,England,Perth,1
+150,107,Pakistan,Adelaide,1
+151,46,South Africa,Melbourne,1
+152,33,U.A.E.,Perth,2
+153,33,West Indies,Perth,2
+154,44,Ireland,Hamilton,2
+155,38,Zimbabwe,Auckland,2
+156,3,Bangladesh,Melbourne,1
+157,1,Australia,Sydney,2
+158,1,Bangladesh,Dhaka,2
+159,23,Bangladesh,Dhaka,1
+160,25,Bangladesh,Dhaka,1
+161,11,South Africa,Kanpur,2
+162,12,South Africa,Indore,1
+163,77,South Africa,Rajkot,2
+164,138,South Africa,Chennai,1
+165,7,South Africa,Mumbai,2
+166,91,Australia,Perth,1
+167,59,Australia,Brisbane,1
+168,117,Australia,Melbourne,1
+169,106,Australia,Canberra,2
+170,8,Australia,Sydney,2
+171,85,New Zealand,Dharamsala,2
+172,9,New Zealand,Delhi,2
+173,154,New Zealand,Mohali,2
+174,45,New Zealand,Ranchi,2
+175,65,New Zealand,Visakhapatnam,1
+176,122,England,Pune,2
+177,8,England,Cuttack,1
+178,55,England,Kolkata,2
+179,81,Pakistan,Birmingham,1
+180,0,Sri Lanka,The Oval,1
+181,76,South Africa,The Oval,2
+182,96,Bangladesh,Birmingham,2
+183,5,Pakistan,The Oval,2
+184,32,West Indies,Port of Spain,1
+185,87,West Indies,Port of Spain,1
+186,11,West Indies,North Sound,1
+187,3,West Indies,North Sound,2
+188,111,West Indies,Kingston,2
+189,82,Sri Lanka,Dambulla,2
+190,4,Sri Lanka,Pallekele,2
+191,3,Sri Lanka,Pallekele,2
+192,131,Sri Lanka,Colombo (RPS),1
+193,110,Sri Lanka,Colombo (RPS),2
+194,0,Australia,Chennai,1
+195,92,Australia,Kolkata,1
+196,28,Australia,Indore,2
+197,21,Australia,Bengaluru,2
+198,39,Australia,Nagpur,2
+199,121,New Zealand,Mumbai,1
+200,29,New Zealand,Pune,2
+201,113,New Zealand,Kanpur,1
+202,112,South Africa,Durban,2
+203,46,South Africa,Centurion,2
+204,160,South Africa,Cape Town,1
+205,75,South Africa,Johannesburg,1
+206,36,South Africa,Port Elizabeth,1
+207,129,South Africa,Centurion,2
+208,75,England,Nottingham,2
+209,45,England,Lord's,2
+210,71,England,Leeds,1
+211,140,West Indies,Guwahati,2
+212,157,West Indies,Visakhapatnam,1
+213,107,West Indies,Pune,2
+214,16,West Indies,Mumbai (BS),1
+215,33,West Indies,Thiruvananthapuram,2
+216,3,Australia,Sydney,2
+217,104,Australia,Adelaide,2
+218,46,Australia,Melbourne,2
+219,45,New Zealand,Napier,2
+220,43,New Zealand,Mount Maunganui,1
+221,60,New Zealand,Mount Maunganui,2
+222,44,Australia,Hyderabad (Deccan),2
+223,116,Australia,Nagpur,1
+224,123,Australia,Ranchi,2
+225,7,Australia,Mohali,1
+226,20,Australia,Delhi,2
+227,18,South Africa,Southampton,2
+228,82,Australia,The Oval,1
+229,77,Pakistan,Manchester,1
+230,67,Afghanistan,Southampton,1
+231,72,West Indies,Manchester,1
+232,66,England,Birmingham,2
+233,26,Bangladesh,Birmingham,1
+234,34,Sri Lanka,Leeds,2
+235,1,New Zealand,Manchester,2
+236,TDNB,West Indies,Providence,-
+237,120,West Indies,Port of Spain,1
+238,114,West Indies,Port of Spain,2
+239,4,West Indies,Chennai,1
+240,0,West Indies,Visakhapatnam,1
+241,85,West Indies,Cuttack,2
+242,16,Australia,Mumbai,1
+243,78,Australia,Rajkot,1
+244,89,Australia,Bengaluru,2
+245,51,New Zealand,Hamilton,1
+246,15,New Zealand,Auckland,2
+247,9,New Zealand,Mount Maunganui,1
+248,21,Australia,Sydney,2
+249,89,Australia,Sydney,2
+250,9,Australia,Canberra,1
+251,56,England,Pune,1
+252,66,England,Pune,1
+253,7,England,Pune,1
+254,51,South Africa,Paarl,2
+255,0,South Africa,Paarl,1
+256,65,South Africa,Cape Town,2
+257,8,West Indies,Ahmedabad,2
+258,18,West Indies,Ahmedabad,1
+259,0,West Indies,Ahmedabad,1
+260,16,England,Lord's,2
+261,17,England,Manchester,2
+262,9,Bangladesh,Mirpur,1
+263,5,Bangladesh,Mirpur,2
+264,113,Bangladesh,Chittagong,1
+265,113,Sri Lanka,Guwahati,1
+266,4,Sri Lanka,Kolkata,2
+267,166,Sri Lanka,Thiruvananthapuram,1
+268,8,New Zealand,Hyderabad (Deccan),1
+269,11,New Zealand,Raipur,2
+270,36,New Zealand,Indore,1
